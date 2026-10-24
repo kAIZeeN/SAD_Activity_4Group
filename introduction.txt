@@ -1,0 +1,23 @@
+INTRODUCTION
+
+Git is a version control system that helps developers keep track of
+changes in their files. GitHub is a website where Git repositories
+can be stored online, so a team can work on the same project together.
+Learning Git is important for students because it is used in almost
+every software project today.
+
+This paper discusses the basic Git commands, how branches are used,
+and how merge conflicts are solved. It also shows how our group used
+Git and GitHub to work together on this paper.
+
+Objectives
+1. To learn the basic Git commands like init, add, commit, push, and pull.
+2. To understand how branching and merging work.
+3. To practice solving merge conflicts in a group.
+
+Significance of the Study
+This paper can help students who are new to Git understand how it
+works and why it is useful in group projects.
+
+Written by: Rheinwell Palomares (Leader)
+Group 8 - BSIS 3A

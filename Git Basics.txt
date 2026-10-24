@@ -1,1 +1,6 @@
+Git Basics - Emmanuel Carurucan
 
+1. Initialize: "git init" - creates a new Git repository in the project folder.
+2. Stage: "git add ." - prepares all changes to be saved.
+3. Commit: git commit -m "message" - saves the changes with a short description.
+4. Check: "git status" - shows the current status of files and changes.

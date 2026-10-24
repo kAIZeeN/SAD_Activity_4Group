@@ -1,0 +1,6 @@
+Conflict Resolution - Marc Inigo Orozco
+
+1. Identify: git pull shows CONFLICT (content), git status lists "both modified".
+2. Edit: open the file, remove <<<<<<<, ======= and >>>>>>> markers, keep the right code.
+3. Resolve: git add <file>
+4. FinalizeL git commit
